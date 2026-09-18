@@ -1,0 +1,35 @@
+# Keil 编译输出文件
+*.bak
+*.dep
+*.m51
+*.lst
+*.map
+*.obj
+*.o
+*.crf
+*.d
+*.axf
+*.elf
+*.hex
+*.bin
+*.build_log.htm
+*.htm
+*.lnp
+*.sct
+*.i
+
+# Keil UI & 用户临时状态文件
+*.uvgui.*
+*.uvguix.*
+*.uvopt
+*.uvoptx
+
+# 调试/下载记录文件
+JLinkLog.txt
+*.build_log.htm
+
+# 编译器/系统生成的文件夹
+Objects/
+Listings/
+DebugConfig/
+RTE/
